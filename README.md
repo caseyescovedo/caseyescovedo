@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'm Casey 
 
 <!--
 **caseyescovedo/caseyescovedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://raw.githubusercontent.com/caseyescovedo/caseyescovedo/main/githubBackground.png" alt="banner Casey Escovedo engineer, golfer, entrepreneur and bitmoji icon">
+
+I'm a software engineer specializing in React, React Native, and Firebase. I can help take your website or mobile app idea from start to finish very efficiently, and with minimal external tools. In my free time i'm an avid golfer trying to get to scratch (currently a 1). I work for a major streaming service and freelance to work on new projects when I can. Please feel free to check out my website and reach out if you need help with your project!
