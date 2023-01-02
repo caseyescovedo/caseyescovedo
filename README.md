@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/caseyescovedo/caseyescovedo/githubBackground.png" alt="banner Casey Escovedo engineer, golfer, entrepreneur and bitmoji icon">
+<img src="https://raw.githubusercontent.com/caseyescovedo/caseyescovedo/main/githubBackground.png" alt="banner Casey Escovedo engineer, golfer, entrepreneur and bitmoji icon">
